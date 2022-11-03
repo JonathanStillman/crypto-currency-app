@@ -107,7 +107,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Firebase][https://firebase.google.com/]][Firebase-url]
+* [![Tailwind][Tailwind.com]][Tailwind-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
