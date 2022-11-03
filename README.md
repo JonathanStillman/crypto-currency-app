@@ -15,6 +15,8 @@
 * Account Creation
 * Authentication
 * Mobile / Web Responsive
+* Firebase Database Connection
+* Live updates on Crypto Coins
 
 ## How To Use
 
