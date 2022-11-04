@@ -18,6 +18,7 @@
 * Firebase Database Connection
 * Live updates on Crypto Coins
 * Ability to add / remove Crypto Coins to your Account
+* Search / Filter feature
 
 ## Technologies Used
 HTML, CSS, Javascript, React, Node.js, Tailwind, Firebase
