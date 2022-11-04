@@ -32,7 +32,7 @@ HTML, CSS, Javascript, React, Node.js, Tailwind, Firebase
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. NOTE: This application also uses Firebase and will NOT work if you don't have your own person API keys from them. From your command line:
 
 ```bash
 # Clone this repository
